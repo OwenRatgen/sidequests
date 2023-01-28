@@ -11,5 +11,5 @@ Local Leaderboard (weekly)
 
 
 Dev portal
-- can put a pin on a map and it logs the gps coords to the database and upload a photo
+- can put a pin on a map and it logs the gps coords to the database and upload a photo + radius
 
