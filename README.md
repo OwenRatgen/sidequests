@@ -7,3 +7,4 @@ Intelligent AI that helps you understand how much your environmental impact real
 chat bot
 
 conversion to contextualizing it
+- Walking to work - distance, time
