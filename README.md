@@ -4,6 +4,6 @@ Intelligent AI that helps you understand how much your environmental impact real
 
 ## Basic features
 
-### Chat bot
+chat bot
 
-### conversion to contextualizing it
+conversion to contextualizing it
