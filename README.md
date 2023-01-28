@@ -1,10 +1,15 @@
-# ivy
-Intelligent AI that helps you understand how much your environmental impact really is
+#Side Quests
+
+Account management:
 
 
-## Basic features
+User side
+- User can see a map of the area around them
+- pull info from data base of GPS coords and a photo
 
-chat bot
+Local Leaderboard (weekly)
 
-conversion to contextualizing it
-- Walking to work - distance, time
+
+Dev portal
+- can put a pin on a map and it logs the gps coords to the database and upload a photo
+
